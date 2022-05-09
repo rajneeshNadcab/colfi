@@ -18522,10 +18522,10 @@ select:focus {
   }
 
   .mobile-center h1{
-    font-size:24px !important;
+    font-size:22px !important;
   }
   .mobile-center P{
-    font-size:20px !important;
+    font-size:18px !important;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -42201,6 +42201,7 @@ body ul.wpb_thumbnails-fluid li .entry-content :last-child {
     margin-left: 0;
     margin-right: 0;
   }
+
 }
 .wpb_image_grid .wpb_image_grid_ul {
   margin: 0;
