@@ -27081,8 +27081,12 @@ div.vc_toggle.vc_toggle_arrow.vc_toggle_active h4 {
     padding-top: 50px;
   }
   .banner-jasmine .countdown-box {
+    bottom: 40px;
+}
+  .banner-jasmine .countdown-box {
     padding: 25px 0 50px;
     max-width: 280px;
+ 
   }
   .io-jasmine .banner.banner-full {
     min-height: 650px;
